@@ -1,0 +1,1 @@
+The project is aimed at automatic the Roadmap creation for the Product Manager. It is an agentic system built on Langgraph, utilizing a RAG for building a repository of competititive and market data and a MCP for looking up JIRA for issues.
