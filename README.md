@@ -1,1 +1,2 @@
 The project is aimed at automatic the Roadmap creation for the Product Manager. It is an agentic system built on Langgraph, utilizing a RAG for building a repository of competititive and market data and a MCP for looking up JIRA for issues.
+In order to run this, you will need to create a docs folder in your working directory and add all relevant documents for the target market for the product, any url links in the docs will be followed, so you can create a file with url links as well.
